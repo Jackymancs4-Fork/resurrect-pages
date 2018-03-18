@@ -1,5 +1,7 @@
 # Documentation
 
+[![Mozilla Add-on](https://img.shields.io/amo/v/resurrect-pages.svg)](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/)
+
 Dead pages, broken links, the scourge of the internet.
 Powerhouse sites like Slashdot and Digg can bring a server to its knees.
 What do we do when a page is dead but we still want to see it?
